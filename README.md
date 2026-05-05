@@ -18,7 +18,7 @@ HTML · CSS · JavaScript (no dependencies)
 
 ## Live demo
 
-[adi-codeartist001.github.io/interactive-landing-page](https://adi-codeartist001.github.io/interactive-landing-page)
+
 
 ## Running locally
 
